@@ -1,2 +1,2 @@
-# SpringAmdinDemo
-SpringAmdinDemo 整合实例
+# SpringBootAmdinDemo
+SpringBootAmdinDemo 整合实例
