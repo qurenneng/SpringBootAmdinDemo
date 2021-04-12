@@ -12,3 +12,5 @@ SpringBootAmdinDemo 整合实例代码
 [Admin Service Clustering 分布式缓存配置](https://blog.csdn.net/qq_41971087/article/details/115553334)
 
 [客户端离线，上线发送邮件通知提醒](https://blog.csdn.net/qq_41971087/article/details/115623172)
+
+[自定义属性配置](https://blog.csdn.net/qq_41971087/article/details/115630169)
