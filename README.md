@@ -16,3 +16,5 @@ SpringBootAmdinDemo 整合实例代码
 [自定义属性配置](https://blog.csdn.net/qq_41971087/article/details/115630169)
 
 [微服务开发Eureka注册中心整合SpringBootAdmin](https://blog.csdn.net/qq_41971087/article/details/115658169)
+
+[微服务开发Consul注册中心整合SpringBootAdmin](https://blog.csdn.net/qq_41971087/article/details/115670541)
