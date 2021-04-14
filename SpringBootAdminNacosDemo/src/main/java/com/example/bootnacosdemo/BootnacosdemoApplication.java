@@ -29,6 +29,9 @@ public class BootnacosdemoApplication {
         SpringApplication.run(BootnacosdemoApplication.class, args);
     }
 
+    /**
+     * 客户端 配置:
+     */
     @Profile("insecure")
     @Configuration(proxyBeanMethods = false)
     public static class SecurityPermitAllConfig extends WebSecurityConfigurerAdapter {
@@ -53,6 +56,9 @@ public class BootnacosdemoApplication {
 
     }
 
+    /**
+     * 服务端 安全授权配置
+     */
     @Profile("secure")
     @Configuration(proxyBeanMethods = false)
     public static class SecuritySecureConfig extends WebSecurityConfigurerAdapter {

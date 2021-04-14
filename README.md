@@ -20,3 +20,5 @@ SpringBootAmdinDemo 整合实例代码
 [微服务开发Consul注册中心整合SpringBootAdmin](https://blog.csdn.net/qq_41971087/article/details/115670541)
 
 [微服务开发Zookeeper注册中心整合SpringBootAdmin](https://blog.csdn.net/qq_41971087/article/details/115673838)
+
+[SpringCloud Alibaba Nacos注册中心整合SpringBootAdmin](https://blog.csdn.net/qq_41971087/article/details/115698175)
